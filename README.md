@@ -1,12 +1,13 @@
-### Hi there, 👋 Im Beqa, from country of Georgia and here is my projects
+### Hi there, 👋 Im Beqa, from country of Georgia and here is my projects:
+
 
 # [42 So_Long](https://github.com/BEQSONA-cmd/So_Long)
-So_Long is a 2D game from 42 school projects
+So_Long is a 2D game from 42 school projects.
 
 ![win](https://github.com/BEQSONA-cmd/So_Long/assets/133658192/72a974c0-d183-4a4c-a762-e87ce6636231)
 
 # [42 Push_Swap](https://github.com/BEQSONA-cmd/Push_Swap)
-Push_Swap involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves
+Push_Swap involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves.
 
 <img src="https://github.com/BEQSONA-cmd/Push_Swap/assets/133658192/fb57ca28-fa47-4339-8bfc-6dbd4aa1ba4f" width="600">
 
