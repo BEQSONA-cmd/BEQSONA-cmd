@@ -14,6 +14,11 @@ Push_Swap involves sorting data on a stack, with a limited set of instructions, 
 
 # [Cabinette](https://github.com/BEQSONA-cmd/Cabinette)
 Cabinette is a tests for 42 school projects: "[Libft](https://github.com/BEQSONA-cmd/Libft)", "[Ft_Printf](https://github.com/BEQSONA-cmd/Ft_Printf)" and "[Get_Next_Line](https://github.com/BEQSONA-cmd/Get_Next_Line)"
+<div style="display: flex;">
+    <img src="https://github.com/BEQSONA-cmd/Cabinette/blob/master/Gifs/Libft.gif" width="334">
+    <img src="https://github.com/BEQSONA-cmd/Cabinette/blob/master/Gifs/Ft_Printf.gif" width="334">
+    <img src="https://github.com/BEQSONA-cmd/Cabinette/blob/master/Gifs/Get_Next_Line.gif" width="334">
+</div>
 
 # [Born2beroot](https://github.com/BEQSONA-cmd/Born2beroot)
 Born2beroot is a project from 42 school, where you have to create your virtualmachine in VirtualBox under specific instructions. Then, at the end of this project, you will be able to set up your own operating system while implementing strict rules. in last you set up a functional WordPress website, with aditional service.
