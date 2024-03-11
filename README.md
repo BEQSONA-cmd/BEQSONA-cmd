@@ -15,9 +15,9 @@ Push_Swap involves sorting data on a stack, with a limited set of instructions, 
 # [Cabinette](https://github.com/BEQSONA-cmd/Cabinette)
 Cabinette is a tests for 42 school projects: "[Libft](https://github.com/BEQSONA-cmd/Libft)", "[Ft_Printf](https://github.com/BEQSONA-cmd/Ft_Printf)" and "[Get_Next_Line](https://github.com/BEQSONA-cmd/Get_Next_Line)"
 <div style="display: flex;">
-    <img src="https://github.com/BEQSONA-cmd/Cabinette/blob/master/Gifs/Libft.gif" width="250">
-    <img src="https://github.com/BEQSONA-cmd/Cabinette/blob/master/Gifs/Ft_Printf.gif" width="250">
-    <img src="https://github.com/BEQSONA-cmd/Cabinette/blob/master/Gifs/Get_Next_Line.gif" width="250">
+    <img src="https://github.com/BEQSONA-cmd/Cabinette/blob/master/Gifs/Libft.gif" width="275">
+    <img src="https://github.com/BEQSONA-cmd/Cabinette/blob/master/Gifs/Ft_Printf.gif" width="275">
+    <img src="https://github.com/BEQSONA-cmd/Cabinette/blob/master/Gifs/Get_Next_Line.gif" width="275">
 </div>
 
 # [Born2beroot](https://github.com/BEQSONA-cmd/Born2beroot)
