@@ -34,6 +34,9 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/BEQSONA-cmd/BEQSONA-cmd/blob/main/Bash.png" height="100" /></a>
 ### Bash is a command-line language for scripting and command-line tasks, commonly employed in system administration and automation.
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BEQSONA-cmd&show_icons=true&theme=BEQSONA&title_color=981b1b&text_color=835d5d&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="BEQSONA-cmd" /></p>
+
+
 <!--
 
 - 🔭 I’m currently working on ...
